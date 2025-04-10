@@ -1,6 +1,6 @@
-# Deep Research Local
+# AgenticDepthSearch
 
-**Deep Research Local** is a Python console application designed to perform in-depth research on a given topic. Inspired by systems like those from OpenAI and Google Gemini, it uses local or remote Large Language Models (LLMs), the Tavily Search API, and the Langchain library to generate sub-queries, analyze results, synthesize information, and present a final summary to the user.
+**AgenticDepthSearch** is a Python console application designed to perform in-depth research on a given topic. Inspired by systems like those from OpenAI and Google Gemini, it uses local or remote Large Language Models (LLMs), the Tavily Search API, and the Langchain library to generate sub-queries, analyze results, synthesize information, and present a final summary to the user.
 
 ## Key Features
 
