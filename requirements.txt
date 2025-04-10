@@ -1,0 +1,17 @@
+aiohttp==3.11.12
+langchain==0.3.23
+langchain-anthropic==0.3.10
+langchain-chroma==0.2.1
+langchain-community==0.3.21
+langchain-core==0.3.51
+langchain-openai==0.3.12
+pydantic==2.11.2
+pydantic-settings==2.8.1
+python-dotenv==1.0.0
+requests==2.32.3
+rich==13.9.4
+tavily-python==0.5.4
+langsmith==0.3.26
+typing-extensions==4.13.1
+
+</rewritten_file>
